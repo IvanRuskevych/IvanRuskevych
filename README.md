@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ivan.ruskevych@gmail.com
 
-<-- 💞️ I’m looking to collaborate on ... -->
+
 
 My stack:
 
