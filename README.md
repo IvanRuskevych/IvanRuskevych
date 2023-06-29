@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in IT Sorcery and Magic
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: ivan.ruskevych@gmail.com
 
 
