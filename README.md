@@ -1,20 +1,3 @@
-- 👋 Hi, I’m Ivan
-- 👀 I’m interested in IT Sorcery and Magic
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: https://www.linkedin.com/in/ivanruskevych/
-
-
-
-My stack:
-
-<img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50"><img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50">
-<img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50">
-<img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50">
-<img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50">
-<img alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50">
-
-
-
 <h2 align="center">Hi, I'm Ivan! 👨‍💻</h2>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
@@ -25,7 +8,7 @@ My stack:
 
 🌱 I’m currently learning TypeScript and next will be Tailwind, MySQL, AWS.
 
-👅 English level: Intermediate
+👅 I have an intermediate level of proficiency in English
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
