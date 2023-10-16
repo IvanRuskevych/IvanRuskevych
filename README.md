@@ -13,7 +13,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ivanruskevych/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
-<a href="https://t.me/Full_Stack_Dev"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+<a href="https://t.me/Fullstack_Dev_GoIT"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
 <h2 align="left">My stack:</h2>
