@@ -49,7 +49,6 @@
 <h2 align="left">I'm interested in:</h2>
 <p align="left">
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
-  <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
 
