@@ -15,7 +15,6 @@ My stack:
 
 
 
-/////////////////////////////////////////////////////////////////////
 <h2 align="center">Hi, I'm Ivan! 👨‍💻</h2>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
@@ -62,15 +61,6 @@ My stack:
   <a href="https://material-ui.com"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
   <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
   
- //   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
- //   <a href="https://test-utils.vuejs.org"><img src="https://img.shields.io/badge/vue_test_utils-555?logo=vuedotjs&style=for-the-badge" alt="vue test utils" title="Vue Test Utils" /></a>
- //   <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
-  //  <a href="https://router.vuejs.org"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
-  //  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-555?logo=vuedotjs&style=for-the-badge" alt="vue" title="Vue" /></a>
- //   <a href="https://next.vuex.vuejs.org"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
- //   <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
-  //  <a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-555?logo=gulp&style=for-the-badge" alt="gulp" title="gulp" /></a> 
-   // <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
 </p>
 
 <h2 align="left">I'm interested in:</h2>
@@ -79,22 +69,10 @@ My stack:
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
-  
- //   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
- //   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
-  //  <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
- //   <a href="https://www.chartjs.org"> <img src="https://img.shields.io/badge/Chart.js-555?logo=chartdotjs&style=for-the-badge" alt="chartjs" title="Chart.js" /></a>
-  //  <a href="https://mariadb.com"><img src="https://img.shields.io/badge/MariaDB-555?logo=MariaDB&style=for-the-badge" alt="mariaDB" title="MariaDB" /></a>
-  //  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&style=for-the-badge" alt="postgresql" title="PostgreSQL" /></a>
-  //  <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a>
-  //  <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a>
+
 </p>
 
-// <h2 align="left">Drafts:</h2>
-// <p align="left">
-// <a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
-// <a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-555?logo=codepen&style=for-the-badge" alt="codepen" /></a>
-// </p>
+
 
 <h3 align="left">Statistics:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanruskevych&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="ivanruskevych" /></p>
