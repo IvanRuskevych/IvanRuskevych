@@ -2,13 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
-✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript ES6+, React. I have experience in backend building with NodeJS.
+✍🏼 Fullstack Developer with 1+ years of experience building modern web applications using React, Node.js, TypeScript, PostgreSQL and Ruby on Rails.
 
-👷🏼‍♂️ I have successfully completed three team projects in a Team Leaderrole and completed over 25 individual tasks.
+👷🏼‍♂️ Delivered production-ready solutions in FinTech and PropTech platforms, focusing on scalable architectures, reusable components, and optimized databases.  
+Comfortable handling routine tasks, while also striving to grow in more complex technical areas.
 
-🌱 I’m currently learning TypeScript and next will be Tailwind, MySQL, AWS.
+🌱 My background outside of IT includes 3 years of experience as a Project Manager, where I led a team of 5 people, ensuring delivery, accountability, and effective collaboration. This management experience now helps me bring responsibility, teamwork, and adaptability to my developer role.
 
-👅 I have an intermediate level of proficiency in English
+👅 English level  - B2 (upper-intermediate)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
