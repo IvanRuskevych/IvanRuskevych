@@ -43,13 +43,13 @@ Comfortable handling routine tasks, while also striving to grow in more complex 
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
   
   <a href="https://material-ui.com"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
-  <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
+  <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   
 </p>
 
 <h2 align="left">I'm interested in:</h2>
 <p align="left">
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
 
